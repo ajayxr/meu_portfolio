@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#0b0a0e"/>
+      <stop offset="1" stop-color="#21132e"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#9148ff"/>
+      <stop offset="1" stop-color="#c39aff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="970" cy="310" r="235" fill="#9148ff" opacity=".09"/>
+  <path d="M95 430 206 188h55l117 242h-68l-76-164-72 164Z" fill="url(#accent)"/>
+  <text x="425" y="276" fill="#f5f3f8" font-family="Arial,sans-serif" font-size="68" font-weight="700">ANDERSON.DEV</text>
+  <text x="430" y="347" fill="#c1bac9" font-family="Arial,sans-serif" font-size="28">Sites profissionais, feitos para o seu projeto.</text>
+  <text x="430" y="405" fill="#bb8aff" font-family="Arial,sans-serif" font-size="22">Sites  •  Design  •  Resultados</text>
+</svg>
